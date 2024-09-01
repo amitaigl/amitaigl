@@ -58,11 +58,11 @@ Using the CLI as a link medium.
   </p>
   
   <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildandart&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">    
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitaigl&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">    
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandart)](https://github.com/wildandart/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitaigl)](https://github.com/amitaigl/github-readme-stats)
     
-  [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandart)](https://github.com/wildandart/github-readme-stats)
+  [![Art Ozersky GitHub stats](https://github-readme-stats.vercel.app/api?username=amitaigl)](https://github.com/amitaigl/github-readme-stats)
       
 <!--   <thead align="center">
     <tr border: none;>
