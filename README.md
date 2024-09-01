@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I’m Art
+I’m Amitai
 
 
-- You can reach me on <a href="www.linkedin.com/in/art-ozersky-xyz"><b>linkedin</b></a>
+- You can reach me on <a href="https://www.linkedin.com/in/amitai-glauber-b3b524192/"><b>linkedin</b></a>
 - On Medium <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
 - On <a href="https://medium.com/@artemyozerski"><b> Medium</b></a> 
 
