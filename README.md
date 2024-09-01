@@ -52,7 +52,7 @@ You can reach me on <a href="https://www.linkedin.com/in/amitai-glauber-b3b52419
     - The data structures are built with an emphasis on efficiency, low memory usage and CPU usage time.
   </p>
   <p>
-    <a href="https://github.com/amitaigl/Repositories"><b>C++ project for reading and displaying video using OpenCV and MediaLook, with a visual interface in Windows Forms and CLI</b></a>
+    <a href="https://github.com/amitaigl/Repositories"><b>Video Displaying</b></a>
     - A project in C++ based on opencv and MediaLook for reading and displaying video from a file or from a webcam, and visual presentation on the user's side (based on Windows Forms).
 Using the CLI as a link medium.
   </p>
