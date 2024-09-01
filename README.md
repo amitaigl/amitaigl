@@ -48,12 +48,13 @@ You can reach me on <a href="https://www.linkedin.com/in/amitai-glauber-b3b52419
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)-->
 ### Projects 
   <p>
-    <a href="https://github.com/WildandArt/HackerNewsAPI"><b>Hacker News API Backend</b></a>
-    - Hacker News API project. PostgreSql & in-memory Cache implementation written in Java SpringBoot.
+    <a href="https://github.com/amitaigl/libraries"><b>Efficient Data Structures</b></a>
+    - The data structures are built with an emphasis on efficiency, low memory usage and CPU usage time.
   </p>
   <p>
-    <a href="https://github.com/WildandArt/TestingSummary"><b>Test Summary</b></a>
-    - Simple Unit Testing for small-medium projects written in C++.
+    <a href="https://github.com/amitaigl/Repositories"><b>C++ project for reading and displaying video using OpenCV and MediaLook, with a visual interface in Windows Forms and CLI</b></a>
+    - A project in C++ based on opencv and MediaLook for reading and displaying video from a file or from a webcam, and visual presentation on the user's side (based on Windows Forms).
+Using the CLI as a link medium.
   </p>
   
   <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
