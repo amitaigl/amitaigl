@@ -53,7 +53,7 @@ You can reach me on <a href="https://www.linkedin.com/in/amitai-glauber-b3b52419
   </p>
   <p>
     <a href="https://github.com/amitaigl/Repositories"><b>Video Displaying</b></a>
-    - A project in C++ based on opencv and MediaLook for reading and displaying video from a file or from a webcam, and visual presentation on the user's side (based on Windows Forms).
+    - A project in C++ based on OpenCV and MediaLook for reading and displaying video from a file or from a webcam, and visual presentation on the user's side (based on Windows Forms).
 Using the CLI as a link medium.
   </p>
   
