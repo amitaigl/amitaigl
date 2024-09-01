@@ -49,7 +49,7 @@ You can reach me on <a href="https://www.linkedin.com/in/amitai-glauber-b3b52419
 ### Projects 
   <p>
     <a href="https://github.com/amitaigl/libraries"><b>Efficient Data Structures</b></a>
-    - The data structures are built with an emphasis on efficiency, low memory usage and CPU usage time.
+    - A project of building data structures in the C and C++ languages ​​with an emphasis on efficiency, low memory usage and CPU usage time.
   </p>
   <p>
     <a href="https://github.com/amitaigl/Repositories"><b>Video Displaying</b></a>
