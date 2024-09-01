@@ -74,13 +74,13 @@ Using the CLI as a link medium.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/WildandArt/cpp-classes/tree/master/RCString"><b>RCString</b></a></td>
+      <td><a href="https://github.com/amitaigl/cpp-classes/tree/master/RCString"><b>RCString</b></a></td>
       <td>C++</td>
       <td>A String Class that implements copy-on-write and Reference Counting</td>
       <td>Scott Meyers</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/WildandArt/cpp-classes/tree/master/SharedPtr"><b>Shared Pointer</b></a></td>
+      <td><a href="https://github.com/amitaigl/cpp-classes/tree/master/SharedPtr"><b>Shared Pointer</b></a></td>
       <td>C++</td>
       <td>An implementation of shared_ptr using reference counting and Pimpl Idiom</td>
       <td>Scott Meyers</td>
