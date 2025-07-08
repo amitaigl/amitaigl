@@ -62,7 +62,7 @@ Using the CLI as a link medium.
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitaigl)](https://github.com/amitaigl/github-readme-stats)
     
-  [![Amitai_Glauber GitHub stats](https://github-readme-stats.vercel.app/api?username=amitaigl)](https://github.com/amitaigl/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitaigl&cache_seconds=3600)](https://github.com/amitaigl/github-readme-stats)
       
 <!--   <thead align="center">
     <tr border: none;>
